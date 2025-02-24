@@ -284,5 +284,5 @@ classDef big font-size:16px;
    - Awards badges for achievements.
    - Provides options to restart or share results.
 
-This Mermaid-based wireframe keeps the structure **clear and modular**, making it easier for the team to visualize the user interface layout. Let me know if you need modifications! 🚀
+This Mermaid-based wireframe keeps the structure **clear and modular**, making it easier for the team to visualize the user interface layout. Let me know if you need modifications! 
 
